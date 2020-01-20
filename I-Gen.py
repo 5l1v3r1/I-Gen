@@ -1,10 +1,9 @@
 #!/usr/bin/python2
+# coding: utf-8
 
 # Creator :  ./FUKUR0-3XP
 # Team : Black Coders Satanic Exploiter Team ( BCA - X666X )
 # Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
-
-# coding: utf-8
 
 import time
 import sys
